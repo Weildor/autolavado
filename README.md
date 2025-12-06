@@ -2,7 +2,7 @@
 Proyecto desarrollado en clase de Programacion Orientada a Objetos, utilizando  Java y Netbeans, con MySQL y Worbeanch (Descripcion)
 
 ## Indice
-1.-[Resumen](#Resuman)
+1.-[Resumen](#Resumen)
 
 2.-[Objetivo](#Objetivo)
 
